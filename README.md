@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayarMohamed
-  welcome to myGitHub profile! I am passionate about mobile application and coding instructor, and I love working on projects that have design and UI.
+  welcome to my GitHub profile! I am passionate about mobile application and coding instructor, and I love working on projects that have design and UI.
   Here you will find a collection of my work, including open source projects, contributions, and personal projects.
 - 💞️ I’m currently working as Coding Instructor
 - 👀 I’m interested in Flutter,Software Testing , Programming Language such as java, python 
